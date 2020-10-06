@@ -4,7 +4,9 @@ A repository that outlines our discussion plan during the ICIPE internship
     * Genomics
     * DNA sequencing
     * Bash scripting
-    
+    * Git and GitHub collaboration
+    * Linux 
+    * HPC and Cloud computing
 
 
 ##### Add your availability time
